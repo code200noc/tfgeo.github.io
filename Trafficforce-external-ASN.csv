@@ -1,3 +1,78 @@
 185.99.28.0/22,GB,,Manchester,
 204.225.218.0/24,US,TX,Dallas,
 193.200.96.0/23,LV,Riga,Riga,
+188.208.102.0/25,KR,,Seoul
+188.208.102.128/25,PH,,Manila
+188.211.26.0/25,IN,,Mumbai
+188.211.26.128/25,KR,,Seoul
+188.213.218.0/25,IN,,New Delhi
+188.213.218.128/25,HK,,Hong Kong
+188.215.34.0/24,TH,,Bangkok
+86.107.102.0/25,PH,,Manila
+86.107.102.128/25,TH,,Bangkok
+89.34.172.0/25,KR,,Seoul
+89.34.172.128/25,IN,,Mumbai
+89.35.126.0/25,IN,,New Delhi
+89.35.126.128/25,BD,,Dhaka
+89.39.122.0/25,TH,,Bangkok
+89.39.122.128/25,ID,,Jakarta
+185.77.164.0/25,SG,,Singapore
+185.77.164.128/25,MY,,Kuala Lumpur
+185.77.165.0/25,SG,,Singapore
+185.77.165.128/25,MY,,Kuala Lumpur
+185.77.166.0/25,SG,,Singapore
+185.77.166.128/25,ID,,Jakarta
+185.77.167.0/25,SG,,Singapore
+185.77.167.128/25,ID,,Jakarta
+188.240.211.0/24,TW,,Taipei
+46.102.251.0/24,CH,,Zurich
+37.153.134.0/25,HK,,Hong Kong
+37.153.134.128/25,KR,,Seoul
+37.156.6.0/25,HK,,Hong Kong
+37.156.6.128/25,KR,,Seoul
+185.122.141.0/24,GB,,London
+185.122.143.0/24,GB,,London
+85.204.245.0/24,GB,,London
+85.204.251.0/24,GB,,London
+86.105.7.0/24,GB,,London
+86.105.13.0/24,GB,,London
+89.37.234.0/24,GB,,London
+94.177.22.0/24,GB,,London
+89.33.117.0/24,PT,,Lisbon
+89.33.118.0/24,SE,,Stockholm
+89.36.142.0/24,IE,,Dublin
+89.36.225.0/24,FI,,Helsinki
+176.223.67.0/24,ES,,Madrid
+188.240.69.0/24,IT,,Rome
+77.237.231.0/24,RU,,Moscow
+31.220.46.0/24,RU,,Moscow
+31.220.47.0/24,RU,,Moscow
+156.67.0.0/24,US,,San Francisco
+156.67.2.0/24,TR,,Istanbul
+156.67.3.0/24,TR,,Istanbul
+155.133.196.0/24,US,,New York
+155.133.197.0/24,US,,New York
+155.133.198.0/24,US,,New York
+153.92.181.0/25,PL,,Warsaw
+153.92.181.128/26,EE,,Tallinn
+153.92.181.192/26,LV,,Riga
+153.92.188.0/25,IT,,Rome
+153.92.188.128/25,CH,,Bern
+153.92.189.0/25,PT,,Lisbon
+153.92.189.128/25,ES,,Madrid
+153.92.190.0/25,BE,,Brussels
+153.92.190.128/25,NL,,Amsterdam
+153.92.191.0/25,HU,,Budapest
+153.92.191.128/26,RS,,Belgrade
+153.92.191.192/26,UA,,Kiev
+155.133.199.0/25,SI,,Ljubljana
+155.133.199.128/25,HR,,Zagreb
+156.67.1.0/25,CZ,,Prague
+156.67.1.128/26,MD,,Chisinau
+156.67.1.192/26,BG,,Sofia
+204.126.6.0/25,FI,,Helsinki
+204.126.6.128/25,SE,,Stockholm
+204.126.7.0/25,BR,,Sao Paulo
+204.126.7.128/25,AR,,Buenos Aires
+204.152.68.0/26,TH,,Bangkok
+204.152.68.64/26,SG,,Singapore
